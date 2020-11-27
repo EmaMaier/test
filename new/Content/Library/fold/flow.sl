@@ -17,8 +17,8 @@ extensions:
   graph:
     steps:
       random_number_generator:
-        x: 216
-        'y': 201.39999389648438
+        x: 98
+        'y': 137
         navigate:
           7afade22-9e5f-5bcf-2dcd-60de8f4652d9:
             targetId: 78c86bc9-50d7-a2c7-56ca-c36f307a0d6d
